@@ -1,0 +1,5 @@
+.product-item-image {
+    width: 250px; /* You can set the dimensions to whatever you want */
+    height: 250px;
+    object-fit: cover;
+}
